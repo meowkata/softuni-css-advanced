@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body, input, textarea, option, select, table, form {
+    font: inherit;
+    background: var(--color-body-background);
+    color: var(--color-body-text);
+    font: 14px/1.5 'Open Sans', sans-serif;
+}
+
+section {
+    margin-left: 8em;
+    margin-right: 8em;
+}
+
+h3 {
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+    margin-top: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    padding-bottom: 2em;
+}

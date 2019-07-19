@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+}
+
+body, input, textarea, option, select, table, form {
+    font: inherit;
+    background: #FFFFFF;
+    color: deeppink;
+}
+
+h1, h3 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: var(--font-size-h1);
+}
+
+h3 {
+    font-size: var(--font-size-h3);
+}
+
+p {
+    font-size: var(--font-size-p);
+    padding-bottom: 1px;
+}

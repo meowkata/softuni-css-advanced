@@ -1,0 +1,12 @@
+body {
+    width: 40em;
+    margin: 0 auto;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main h3 {
+    font-style: italic;
+}
